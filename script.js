@@ -8,7 +8,7 @@ function myMenuFunction(){
       menuBtn.className = "nav-menu";
     }
   }
-let theme = ()=> document.body.style.background = 'black';
+
 /* ----- ADD SHADOW ON NAVIGATION BAR WHILE SCROLLING ----- */
   window.onscroll = function() {headerShadow()};
 
